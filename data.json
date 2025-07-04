@@ -1,0 +1,25 @@
+{
+    "id": "chat-0a3097500842412f860744b6680fb883",
+    "object": "chat.completion",
+    "created": 1751665027,
+    "model": "/kaggle/input/qwen2.5/transformers/14b-instruct-awq/1",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Q1: Sinh viên được hưởng những quyền lợi gì từ Đảng và Nhà nước?\nA1: Sinh viên được hưởng đầy đủ chế độ, chính sách hiện hành của Đảng và Nhà nước.\n\nQ2: Trong trường hợp nào sinh viên phải hoàn trả kinh phí đào tạo từ ngân sách nhà nước?\nA2: Sinh viên phải hoàn trả kinh phí đào tạo từ ngân sách nhà nước khi thôi học vì lý do chủ quan.\n\nQ3: Sinh viên có quyền nghỉ học tạm thời trong những trường hợp nào?\nA3: Sinh viên có quyền nghỉ học tạm thời khi được động viên vào lực lượng vũ trang, được cơ quan có thẩm quyền điều động, bị ốm, thai sản hoặc tai nạn, hoặc vì lý do cá nhân khác.\n\nQ4: Điều kiện gì sinh viên phải đáp ứng khi nghỉ học tạm thời vì lý do cá nhân?\nA4: Sinh viên phải học tối thiểu 1 học kỳ và đạt điểm trung bình chung tích lũy tối thiểu 2,0.\n\nQ5: Sinh viên thuộc chương trình đào tạo tài năng được hưởng quyền lợi gì?\nA5: Sinh viên được các nhà khoa học đầu ngành trực tiếp giảng dạy và hướng dẫn nghiên cứu.\n\nQ6: Sinh viên thuộc chương trình đào tạo tài năng có quyền ưu tiên sử dụng tài liệu học tập nào?\nA6: Sinh viên được ưu tiên sử dụng các tài liệu học tập, phương tiện kỹ thuật, thư viện và hệ thống internet.\n\nQ7: Sinh viên thuộc chương trình đào tạo tài năng có quyền ưu tiên xét cấp học bổng nào?\nA7: Sinh viên được ưu tiên xét cấp học bổng khuyến khích phát triển và học bổng từ các tổ chức, cá nhân.\n\nQ8: Sinh viên ở xa được ưu tiên bố trí chỗ ở ở đâu?\nA8: Sinh viên ở xa được ưu tiên bố trí chỗ ở trong ký túc xá.\n\nQ9: Sinh viên thuộc chương trình đào tạo tài năng có quyền ưu tiên đi học ở đâu?\nA9: Sinh viên được ưu tiên xét chọn đi học ở nước ngoài hoặc theo các chương trình hợp tác quốc tế.\n\nQ10: Sinh viên thuộc chương trình đào tạo chuẩn được hưởng quyền lợi gì?\nA10: Sinh viên được hưởng các quyền lợi chung từ Đảng và Nhà nước.\n\nQ11: Sinh viên có quyền bảo lưu kết quả học tập trong trường hợp nào?\nA11: Sinh viên được bảo lưu kết quả học tập khi bị ốm, thai sản hoặc tai nạn phải điều trị thời gian dài.\n\nQ12: Sinh viên thuộc chương trình đào tạo tài năng được hưởng quyền lợi gì về học bổng?\nA12: Sinh viên được ưu tiên xét cấp học bổng khuyến khích phát triển và học bổng từ các tổ chức, cá nhân.\n\nQ13: Sinh viên thuộc chương trình đào tạo tài năng được hưởng quyền lợi gì về nghiên cứu khoa học?\nA13: Sinh viên được các nhà khoa học đầu ngành trực tiếp giảng dạy và hướng dẫn nghiên cứu khoa học.",
+                "tool_calls": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop",
+            "stop_reason": null
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 694,
+        "total_tokens": 1357,
+        "completion_tokens": 663
+    },
+    "prompt_logprobs": null
+}
