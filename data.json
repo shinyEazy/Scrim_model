@@ -1,25 +1,36 @@
 {
-    "id": "chat-0a3097500842412f860744b6680fb883",
+    "id": "chatcmpl-BpsIFWcO8MwIzjjMhhEFROSW0xWuX",
     "object": "chat.completion",
-    "created": 1751665027,
-    "model": "/kaggle/input/qwen2.5/transformers/14b-instruct-awq/1",
+    "created": 1751703131,
+    "model": "gpt-4.1-nano-2025-04-14",
     "choices": [
         {
             "index": 0,
             "message": {
                 "role": "assistant",
-                "content": "Q1: Sinh viên được hưởng những quyền lợi gì từ Đảng và Nhà nước?\nA1: Sinh viên được hưởng đầy đủ chế độ, chính sách hiện hành của Đảng và Nhà nước.\n\nQ2: Trong trường hợp nào sinh viên phải hoàn trả kinh phí đào tạo từ ngân sách nhà nước?\nA2: Sinh viên phải hoàn trả kinh phí đào tạo từ ngân sách nhà nước khi thôi học vì lý do chủ quan.\n\nQ3: Sinh viên có quyền nghỉ học tạm thời trong những trường hợp nào?\nA3: Sinh viên có quyền nghỉ học tạm thời khi được động viên vào lực lượng vũ trang, được cơ quan có thẩm quyền điều động, bị ốm, thai sản hoặc tai nạn, hoặc vì lý do cá nhân khác.\n\nQ4: Điều kiện gì sinh viên phải đáp ứng khi nghỉ học tạm thời vì lý do cá nhân?\nA4: Sinh viên phải học tối thiểu 1 học kỳ và đạt điểm trung bình chung tích lũy tối thiểu 2,0.\n\nQ5: Sinh viên thuộc chương trình đào tạo tài năng được hưởng quyền lợi gì?\nA5: Sinh viên được các nhà khoa học đầu ngành trực tiếp giảng dạy và hướng dẫn nghiên cứu.\n\nQ6: Sinh viên thuộc chương trình đào tạo tài năng có quyền ưu tiên sử dụng tài liệu học tập nào?\nA6: Sinh viên được ưu tiên sử dụng các tài liệu học tập, phương tiện kỹ thuật, thư viện và hệ thống internet.\n\nQ7: Sinh viên thuộc chương trình đào tạo tài năng có quyền ưu tiên xét cấp học bổng nào?\nA7: Sinh viên được ưu tiên xét cấp học bổng khuyến khích phát triển và học bổng từ các tổ chức, cá nhân.\n\nQ8: Sinh viên ở xa được ưu tiên bố trí chỗ ở ở đâu?\nA8: Sinh viên ở xa được ưu tiên bố trí chỗ ở trong ký túc xá.\n\nQ9: Sinh viên thuộc chương trình đào tạo tài năng có quyền ưu tiên đi học ở đâu?\nA9: Sinh viên được ưu tiên xét chọn đi học ở nước ngoài hoặc theo các chương trình hợp tác quốc tế.\n\nQ10: Sinh viên thuộc chương trình đào tạo chuẩn được hưởng quyền lợi gì?\nA10: Sinh viên được hưởng các quyền lợi chung từ Đảng và Nhà nước.\n\nQ11: Sinh viên có quyền bảo lưu kết quả học tập trong trường hợp nào?\nA11: Sinh viên được bảo lưu kết quả học tập khi bị ốm, thai sản hoặc tai nạn phải điều trị thời gian dài.\n\nQ12: Sinh viên thuộc chương trình đào tạo tài năng được hưởng quyền lợi gì về học bổng?\nA12: Sinh viên được ưu tiên xét cấp học bổng khuyến khích phát triển và học bổng từ các tổ chức, cá nhân.\n\nQ13: Sinh viên thuộc chương trình đào tạo tài năng được hưởng quyền lợi gì về nghiên cứu khoa học?\nA13: Sinh viên được các nhà khoa học đầu ngành trực tiếp giảng dạy và hướng dẫn nghiên cứu khoa học.",
-                "tool_calls": []
+                "content": "Q1: Sinh viên được hưởng những quyền lợi gì liên quan đến chế độ và chính sách hiện hành?  \nA1: Sinh viên được hưởng đầy đủ chế độ, chính sách hiện hành của Đảng, Nhà nước, cũng như quy chế, quy định của Đại học Quốc gia Hà Nội và đơn vị đào tạo.  \n\nQ2: Trong trường hợp sinh viên muốn thôi học vì lý do chủ quan, họ cần làm gì?  \nA2: Sinh viên phải hoàn trả toàn bộ kinh phí đào tạo từ ngân sách nhà nước trong thời gian theo học.  \n\nQ3: Những trường hợp nào sinh viên được phép xin nghỉ học tạm thời và bảo lưu kết quả học tập?  \nA3: Sinh viên được xin nghỉ học tạm thời trong các trường hợp như: được động viên vào lực lượng vũ trang, được điều động tham dự các kỳ thi quốc tế, bị ốm hoặc tai nạn phải điều trị dài hạn, hoặc vì lý do cá nhân khác nhưng phải học tối thiểu 01 học kỳ và đạt điểm trung bình tích lũy tối thiểu 2,0.  \n\nQ4: Thời gian nghỉ học tạm thời vì lý do cá nhân có ảnh hưởng như thế nào đến thời gian tối đa học tập?  \nA4: Thời gian nghỉ học tạm thời vì lý do cá nhân được tính vào thời gian tối đa được phép học.  \n\nQ5: Sinh viên chương trình đào tạo tài năng, chất lượng cao có quyền lợi gì đặc biệt so với chương trình chuẩn?  \nA5: Sinh viên chương trình tài năng, chất lượng cao được hưởng quyền lợi như giảng dạy trực tiếp bởi các nhà khoa học, ưu tiên sử dụng tài liệu, trang thiết bị, thư viện, internet, xét cấp học bổng và bố trí chỗ ở trong ký túc xá, cùng cơ hội đi học ở nước ngoài hoặc theo chương trình hợp tác quốc tế.  \n\nQ6: Sinh viên thuộc chương trình đào tạo tài năng có thể được hưởng ưu tiên gì trong việc học tập và nghiên cứu?  \nA6: Được ưu tiên cung cấp hoặc sử dụng các tài liệu học tập, phương tiện, trang thiết bị, thư viện, internet, và xét cấp học bổng cũng như bố trí chỗ ở trong ký túc xá.  \n\nQ7: Có thể sinh viên xin nghỉ học tạm thời vì lý do cá nhân mà không cần đạt điểm trung bình tối thiểu không?  \nA7: Không, sinh viên phải đạt điểm trung bình chung tích lũy tối thiểu 2,0 để được nghỉ học tạm thời vì lý do cá nhân.  \n\nQ8: Sinh viên có thể xin nghỉ học tạm thời để tham gia các hoạt động quốc tế hoặc do cơ quan có thẩm quyền điều động không?  \nA8: Có, sinh viên được phép xin nghỉ học tạm thời khi tham gia các hoạt động quốc tế hoặc do cơ quan có thẩm quyền điều động.",
+                "refusal": null,
+                "annotations": []
             },
             "logprobs": null,
-            "finish_reason": "stop",
-            "stop_reason": null
+            "finish_reason": "stop"
         }
     ],
     "usage": {
-        "prompt_tokens": 694,
-        "total_tokens": 1357,
-        "completion_tokens": 663
+        "prompt_tokens": 746,
+        "completion_tokens": 615,
+        "total_tokens": 1361,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
     },
-    "prompt_logprobs": null
+    "service_tier": "default",
+    "system_fingerprint": "fp_38343a2f8f"
 }
