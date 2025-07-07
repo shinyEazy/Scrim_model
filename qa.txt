@@ -1,23 +1,299 @@
-Q1: Sinh viên được hưởng những quyền lợi gì liên quan đến chế độ và chính sách hiện hành?  
-A1: Sinh viên được hưởng đầy đủ chế độ, chính sách hiện hành của Đảng, Nhà nước, cũng như quy chế, quy định của Đại học Quốc gia Hà Nội và đơn vị đào tạo.  
+Q1: Sinh viên được hưởng những chế độ, chính sách nào của Đảng và Nhà nước?  
+A1: Sinh viên được hưởng đầy đủ chế độ, chính sách hiện hành của Đảng, Nhà nước và các quy chế của Đại học Quốc gia Hà Nội cũng như của đơn vị đào tạo.  
 
-Q2: Trong trường hợp sinh viên muốn thôi học vì lý do chủ quan, họ cần làm gì?  
-A2: Sinh viên phải hoàn trả toàn bộ kinh phí đào tạo từ ngân sách nhà nước trong thời gian theo học.  
+Q2: Sinh viên có thể thôi học vì lý do cá nhân không?  
+A2: Có, sinh viên được phép thôi học vì lý do chủ quan của cá nhân và phải hoàn trả toàn bộ kinh phí đào tạo từ ngân sách nhà nước.  
 
-Q3: Những trường hợp nào sinh viên được phép xin nghỉ học tạm thời và bảo lưu kết quả học tập?  
-A3: Sinh viên được xin nghỉ học tạm thời trong các trường hợp như: được động viên vào lực lượng vũ trang, được điều động tham dự các kỳ thi quốc tế, bị ốm hoặc tai nạn phải điều trị dài hạn, hoặc vì lý do cá nhân khác nhưng phải học tối thiểu 01 học kỳ và đạt điểm trung bình tích lũy tối thiểu 2,0.  
+Q3: Trong trường hợp nào sinh viên được xin nghỉ học tạm thời?  
+A3: Sinh viên được xin nghỉ học tạm thời khi bị động viên vào lực lượng vũ trang, được điều động tham dự các kỳ thi quốc tế, bị ốm hoặc tai nạn dài hạn, hoặc vì lý do cá nhân tối thiểu 1 học kỳ phù hợp các quy định.  
 
-Q4: Thời gian nghỉ học tạm thời vì lý do cá nhân có ảnh hưởng như thế nào đến thời gian tối đa học tập?  
-A4: Thời gian nghỉ học tạm thời vì lý do cá nhân được tính vào thời gian tối đa được phép học.  
+Q4: Thời gian nghỉ học tạm thời của sinh viên có được tính vào thời gian tối đa học không?  
+A4: Có, thời gian nghỉ học tạm thời vì nhu cầu cá nhân được tính vào thời gian tối đa được phép học.  
 
-Q5: Sinh viên chương trình đào tạo tài năng, chất lượng cao có quyền lợi gì đặc biệt so với chương trình chuẩn?  
-A5: Sinh viên chương trình tài năng, chất lượng cao được hưởng quyền lợi như giảng dạy trực tiếp bởi các nhà khoa học, ưu tiên sử dụng tài liệu, trang thiết bị, thư viện, internet, xét cấp học bổng và bố trí chỗ ở trong ký túc xá, cùng cơ hội đi học ở nước ngoài hoặc theo chương trình hợp tác quốc tế.  
+Q5: Sinh viên thuộc chương trình đào tạo tài năng, chất lượng cao được hưởng quyền lợi gì?  
+A5: Sinh viên chương trình này được hưởng các quyền lợi như giảng dạy và hướng dẫn nghiên cứu của các nhà khoa học đầu ngành, ưu tiên tài liệu, trang thiết bị, chỗ ở trong ký túc xá, và xét cấp học bổng.  
 
-Q6: Sinh viên thuộc chương trình đào tạo tài năng có thể được hưởng ưu tiên gì trong việc học tập và nghiên cứu?  
-A6: Được ưu tiên cung cấp hoặc sử dụng các tài liệu học tập, phương tiện, trang thiết bị, thư viện, internet, và xét cấp học bổng cũng như bố trí chỗ ở trong ký túc xá.  
+Q6: Sinh viên có được ưu tiên sử dụng thư viện và hệ thống internet không?  
+A6: Có, sinh viên chương trình đào tạo tài năng, chất lượng cao được ưu tiên sử dụng các phương tiện, trang thiết bị kỹ thuật, thư viện và hệ thống internet phục vụ học tập và nghiên cứu.  
 
-Q7: Có thể sinh viên xin nghỉ học tạm thời vì lý do cá nhân mà không cần đạt điểm trung bình tối thiểu không?  
-A7: Không, sinh viên phải đạt điểm trung bình chung tích lũy tối thiểu 2,0 để được nghỉ học tạm thời vì lý do cá nhân.  
+Q7: Sinh viên có thể xin học bổng từ tổ chức trong và ngoài nước không?  
+A7: Có, sinh viên được ưu tiên xét cấp học bổng khuyến khích phát triển và học bổng của các tổ chức, cá nhân trong và ngoài nước.  
 
-Q8: Sinh viên có thể xin nghỉ học tạm thời để tham gia các hoạt động quốc tế hoặc do cơ quan có thẩm quyền điều động không?  
-A8: Có, sinh viên được phép xin nghỉ học tạm thời khi tham gia các hoạt động quốc tế hoặc do cơ quan có thẩm quyền điều động.
+Q8: Sinh viên ở xa có được bố trí chỗ ở trong ký túc xá không?  
+A8: Có, sinh viên ở xa được ưu tiên bố trí chỗ ở trong ký túc xá.  
+
+Q9: Sinh viên có thể xin đi học ở nước ngoài không?  
+A9: Có, sinh viên được ưu tiên xét chọn đi học ở nước ngoài hoặc theo các chương trình hợp tác quốc tế của Đại học Quốc gia Hà Nội hoặc của đơn vị đào tạo.  
+
+Q10: Các quy định về hoàn trả kinh phí khi thôi học vì lý do cá nhân là gì?  
+A10: Sinh viên phải hoàn trả toàn bộ kinh phí đào tạo từ ngân sách nhà nước trong thời gian theo học.  
+
+Q11: Các trường hợp nào sinh viên được bảo lưu kết quả học tập?  
+A11: Sinh viên được bảo lưu kết quả khi bị điều động tham dự các kỳ thi quốc tế, bị ốm hoặc tai nạn dài hạn, hoặc vì lý do cá nhân tối thiểu 1 học kỳ phù hợp quy định.  
+
+Q12: Sinh viên có thể nghỉ học tạm thời vì lý do nào liên quan đến sức khỏe?  
+A12: Có, sinh viên có thể nghỉ học tạm thời do bị ốm, thai sản hoặc tai nạn phải điều trị dài hạn có chứng nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền.  
+
+Q13: Sinh viên có quyền xin thôi học trong trường hợp nào?  
+A13: Sinh viên có thể xin thôi học vì lý do chủ quan của cá nhân, sau khi hoàn trả kinh phí đào tạo.  
+
+Q14: Chương trình đào tạo tài năng và chất lượng cao có những quyền lợi đặc biệt nào?  
+A14: Ngoài quyền lợi chung, sinh viên chương trình này được giảng dạy trực tiếp bởi các nhà khoa học đầu ngành, được ưu tiên tài liệu, thiết bị, chỗ ở, và xét cấp học bổng.  
+
+Q15: Sinh viên có thể xin nghỉ học vì lý do cá nhân không thuộc các trường hợp đặc biệt nào?  
+A15: Sinh viên có thể nghỉ vì lý do cá nhân khác nhưng phải học tối thiểu 1 học kỳ và không thuộc các trường hợp bị xem xét buộc thôi học hoặc kỷ luật.  
+
+Q16: Sinh viên có thể sử dụng các trang thiết bị kỹ thuật như thế nào?  
+A16: Sinh viên được ưu tiên sử dụng các phương tiện, trang thiết bị kỹ thuật, thư viện và hệ thống internet phục vụ học tập và nghiên cứu.  
+
+Q17: Quyền lợi của sinh viên trong chương trình đào tạo chuẩn là gì?  
+A17: Được hưởng đầy đủ chế độ, chính sách hiện hành của Đảng, Nhà nước, và các quy chế của Đại học Quốc gia Hà Nội cùng của đơn vị đào tạo.  
+
+Q18: Nếu sinh viên bị điều động hoặc tham dự các kỳ thi quốc tế, họ có thể tạm nghỉ học không?  
+A18: Có, sinh viên có thể xin nghỉ học tạm thời trong các trường hợp này và bảo lưu kết quả học tập.  
+
+Q19: Sinh viên có thể xin nghỉ học vì lý do cá nhân nhưng phải học tối thiểu bao nhiêu học kỳ?  
+A19: Phải học tối thiểu 1 học kỳ phù hợp các quy định.  
+
+Q20: Các quyền lợi dành cho sinh viên ở xa là gì?  
+A20: Được ưu tiên bố trí chỗ ở trong ký túc xá và các quyền lợi khác như ưu tiên xét đi học ở nước ngoài.  
+
+Q21: Sinh viên có thể xin rút lui khỏi chương trình đào tạo không?  
+A21: Có thể, sinh viên có quyền thôi học theo quy định và hoàn trả kinh phí nếu do lý do cá nhân.  
+
+Q22: Các quyền lợi về nghiên cứu khoa học của sinh viên chương trình đào tạo tài năng là gì?  
+A22: Được hướng dẫn trực tiếp bởi các nhà khoa học đầu ngành, có cơ hội tham gia nghiên cứu và phát triển kỹ năng.  
+
+Q23: Sinh viên có thể sử dụng tài liệu học tập như thế nào?  
+A23: Được ưu tiên cung cấp hoặc sử dụng các tài liệu học tập.  
+
+Q24: Sinh viên có thể được xét cấp học bổng dựa trên tiêu chí gì?  
+A24: Dựa trên các tiêu chí của các tổ chức, cá nhân trong và ngoài nước, và theo quy định của chương trình.  
+
+Q25: Các quyền lợi đặc biệt của sinh viên chương trình đào tạo tài năng là gì?  
+A25: Được giảng dạy và hướng dẫn bởi các chuyên gia uy tín, có ưu tiên về tài liệu, thiết bị, chỗ ở, và xét cấp học bổng.  
+
+Q26: Sinh viên có thể xin nghỉ học tạm thời trong các trường hợp nào?  
+A26: Khi bị điều động, tham dự các kỳ thi quốc tế, bị ốm hoặc tai nạn dài hạn, hoặc vì lý do cá nhân tối thiểu 1 học kỳ.  
+
+Q27: Sinh viên có thể xin đi học ở nước ngoài dựa trên quyền lợi nào?  
+A27: Được ưu tiên xét chọn đi học ở nước ngoài hoặc theo các chương trình hợp tác quốc tế của Đại học Quốc gia Hà Nội hoặc của đơn vị đào tạo.  
+
+Q28: Sinh viên có quyền hưởng chế độ chính sách của đơn vị đào tạo không?  
+A28: Có, họ được hưởng đầy đủ chế độ, chính sách của đơn vị đào tạo.  
+
+Q29: Trong trường hợp nào sinh viên phải hoàn trả kinh phí đào tạo?  
+A29: Khi thôi học vì lý do cá nhân, họ phải hoàn trả toàn bộ kinh phí đào tạo từ ngân sách nhà nước.  
+
+Q30: Sinh viên có thể bảo lưu kết quả học tập trong trường hợp nào?  
+A30: Khi bị điều động, tham dự kỳ thi quốc tế, bị ốm hoặc tai nạn dài hạn, hoặc vì lý do cá nhân tối thiểu 1 học kỳ phù hợp quy định.  
+
+Q31: Sinh viên có thể xin nghỉ học vì lý do nào liên quan đến thai sản?  
+A31: Có, sinh viên bị thai sản hoặc cần điều trị dài hạn có chứng nhận của cơ sở y tế có thể xin nghỉ học tạm thời.  
+
+Q32: Quyền lợi của sinh viên trong chương trình đào tạo chuẩn là gì?  
+A32: Được hưởng đầy đủ chế độ, chính sách hiện hành của Đảng, Nhà nước và các quy chế của Đại học Quốc gia Hà Nội cùng của đơn vị đào tạo.  
+
+Q33: Sinh viên có thể xin thôi học vì lý do chủ quan của cá nhân không?  
+A33: Có, sau khi hoàn trả toàn bộ kinh phí đào tạo từ ngân sách nhà nước.  
+
+Q34: Sinh viên thuộc chương trình đào tạo tài năng có được hưởng quyền lợi gì về nghiên cứu?  
+A34: Được hướng dẫn nghiên cứu khoa học trực tiếp bởi các nhà khoa học đầu ngành.  
+
+Q35: Sinh viên có thể xin nghỉ học tạm thời vì lý do nào?  
+A35: Khi bị điều động, tham dự các kỳ thi quốc tế, bị ốm hoặc tai nạn dài hạn, hoặc vì lý do cá nhân tối thiểu 1 học kỳ phù hợp quy định.  
+
+Q36: Sinh viên có thể xin đi học ở nước ngoài dựa trên quyền lợi nào?  
+A36: Được ưu tiên xét chọn đi học ở nước ngoài hoặc theo các chương trình hợp tác quốc tế của Đại học Quốc gia Hà Nội hoặc của đơn vị đào tạo.  
+
+Q37: Sinh viên có thể sử dụng các phương tiện, trang thiết bị kỹ thuật như thế nào?  
+A37: Được ưu tiên sử dụng các phương tiện, trang thiết bị kỹ thuật, thư viện và hệ thống internet phục vụ học tập và nghiên cứu.  
+
+Q38: Các quyền lợi của sinh viên trong chương trình đào tạo chất lượng cao là gì?  
+A38: Được hưởng các quyền lợi như giảng dạy trực tiếp bởi các nhà khoa học uy tín, ưu tiên tài liệu, chỗ ở, và xét cấp học bổng.  
+
+Q39: Sinh viên có thể xin nghỉ học vì lý do cá nhân thuộc các trường hợp nào?  
+A39: Phải học tối thiểu 1 học kỳ, không thuộc các trường hợp bị buộc thôi học hoặc kỷ luật, và lý do cá nhân phù hợp quy định.  
+
+Q40: Sinh viên có thể xin nghỉ học tạm thời vì các lý do nào khác?  
+A40: Khi bị ốm, thai sản, tai nạn dài hạn, hoặc lý do cá nhân phù hợp quy định.  
+
+Q41: Sinh viên có thể xin thôi học khi nào?  
+A41: Khi có lý do cá nhân và đã hoàn trả kinh phí đào tạo từ ngân sách nhà nước.  
+
+Q42: Quyền lợi của sinh viên thuộc chương trình đào tạo chuẩn là gì?  
+A42: Được hưởng đầy đủ chế độ, chính sách hiện hành của Đảng, Nhà nước và các quy chế của Đại học Quốc gia Hà Nội cùng của đơn vị đào tạo.  
+
+Q43: Sinh viên có thể xin nghỉ học vì lý do cá nhân không?  
+A43: Có, với điều kiện học tối thiểu 1 học kỳ và không thuộc các trường hợp bị buộc thôi học hoặc kỷ luật.  
+
+Q44: Sinh viên thuộc chương trình đào tạo tài năng được ưu tiên gì?  
+A44: Được hướng dẫn nghiên cứu khoa học trực tiếp bởi các nhà khoa học đầu ngành, ưu tiên tài liệu, thiết bị, chỗ ở, và xét cấp học bổng.  
+
+Q45: Sinh viên có thể xin đi học ở nước ngoài dựa trên quyền lợi nào?  
+A45: Được ưu tiên xét chọn đi học hoặc tham gia các chương trình hợp tác quốc tế của Đại học Quốc gia Hà Nội hoặc của đơn vị đào tạo.  
+
+Q46: Sinh viên có thể sử dụng thư viện và internet như thế nào?  
+A46: Được ưu tiên sử dụng các tài liệu, thiết bị, thư viện và hệ thống internet phục vụ học tập và nghiên cứu.  
+
+Q47: Các quyền lợi của sinh viên trong chương trình đào tạo chất lượng cao là gì?  
+A47: Được hưởng các quyền lợi như giảng dạy trực tiếp bởi các nhà khoa học uy tín, ưu tiên tài liệu, chỗ ở, và xét cấp học bổng.  
+
+Q48: Sinh viên có thể xin nghỉ học vì lý do nào liên quan đến sức khỏe?  
+A48: Khi bị ốm, thai sản hoặc tai nạn dài hạn có chứng nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền.  
+
+Q49: Sinh viên có thể xin thôi học trong trường hợp nào?  
+A49: Vì lý do cá nhân, sau khi hoàn trả kinh phí đào tạo và phù hợp quy định của nhà trường.  
+
+Q50: Sinh viên có thể xin nghỉ học tạm thời vì lý do nào?  
+A50: Khi bị điều động, tham dự các kỳ thi quốc tế, bị ốm hoặc tai nạn dài hạn, hoặc vì lý do cá nhân phù hợp quy định.  
+
+Q51: Sinh viên có thể xin đi học ở nước ngoài dựa trên quyền lợi nào?  
+A51: Được ưu tiên xét chọn đi học hoặc theo các chương trình hợp tác quốc tế của Đại học Quốc gia Hà Nội hoặc của đơn vị đào tạo.  
+
+Q52: Quyền lợi của sinh viên trong chương trình đào tạo chuẩn là gì?  
+A52: Được hưởng đầy đủ chế độ, chính sách hiện hành của Đảng, Nhà nước và các quy chế của Đại học Quốc gia Hà Nội cùng của đơn vị đào tạo.  
+
+Q53: Sinh viên có thể xin thôi học vì lý do cá nhân không?  
+A53: Có, sau khi hoàn trả toàn bộ kinh phí đào tạo từ ngân sách nhà nước.  
+
+Q54: Sinh viên thuộc chương trình đào tạo tài năng có những quyền lợi gì?  
+A54: Được hướng dẫn nghiên cứu khoa học trực tiếp bởi các nhà khoa học đầu ngành, ưu tiên tài liệu, thiết bị, chỗ ở, và xét cấp học bổng.  
+
+Q55: Sinh viên có thể xin nghỉ học vì lý do nào?  
+A55: Khi bị điều động, tham dự các kỳ thi quốc tế, bị ốm hoặc tai nạn dài hạn, hoặc vì lý do cá nhân tối thiểu 1 học kỳ phù hợp quy định.  
+
+Q56: Sinh viên có thể xin đi học ở nước ngoài dựa trên quyền lợi nào?  
+A56: Được ưu tiên xét chọn đi học hoặc tham gia các chương trình hợp tác quốc tế của Đại học Quốc gia Hà Nội hoặc của đơn vị đào tạo.  
+
+Q57: Sinh viên có thể sử dụng các phương tiện, trang thiết bị kỹ thuật như thế nào?  
+A57: Được ưu tiên sử dụng các phương tiện, trang thiết bị kỹ thuật, thư viện và hệ thống internet phục vụ học tập và nghiên cứu.  
+
+Q58: Các quyền lợi của sinh viên trong chương trình đào tạo chất lượng cao là gì?  
+A58: Được hưởng các quyền lợi như giảng dạy trực tiếp bởi các nhà khoa học uy tín, ưu tiên tài liệu, chỗ ở, và xét cấp học bổng.  
+
+Q59: Sinh viên có thể xin nghỉ học vì lý do cá nhân thuộc các trường hợp nào?  
+A59: Phải học tối thiểu 1 học kỳ, không thuộc các trường hợp bị buộc thôi học hoặc kỷ luật, và lý do cá nhân phù hợp quy định.  
+
+Q60: Sinh viên có thể xin nghỉ học tạm thời vì các lý do nào khác?  
+A60: Khi bị ốm, thai sản, tai nạn dài hạn, hoặc lý do cá nhân phù hợp quy định.  
+
+Q61: Sinh viên có thể xin thôi học khi nào?  
+A61: Khi có lý do cá nhân và đã hoàn trả kinh phí đào tạo từ ngân sách nhà nước.  
+
+Q62: Quyền lợi của sinh viên thuộc chương trình đào tạo chuẩn là gì?  
+A62: Được hưởng đầy đủ chế độ, chính sách hiện hành của Đảng, Nhà nước và các quy chế của Đại học Quốc gia Hà Nội cùng của đơn vị đào tạo.  
+
+Q63: Sinh viên có thể xin nghỉ học vì lý do cá nhân không?  
+A63: Có, với điều kiện học tối thiểu 1 học kỳ và không thuộc các trường hợp bị buộc thôi học hoặc kỷ luật.  
+
+Q64: Sinh viên thuộc chương trình đào tạo tài năng được ưu tiên gì?  
+A64: Được hướng dẫn nghiên cứu khoa học trực tiếp bởi các nhà khoa học đầu ngành, ưu tiên tài liệu, thiết bị, chỗ ở, và xét cấp học bổng.  
+
+Q65: Sinh viên có thể xin đi học ở nước ngoài dựa trên quyền lợi nào?  
+A65: Được ưu tiên xét chọn đi học hoặc tham gia các chương trình hợp tác quốc tế của Đại học Quốc gia Hà Nội hoặc của đơn vị đào tạo.  
+
+Q66: Sinh viên có thể sử dụng thư viện và internet như thế nào?  
+A66: Được ưu tiên sử dụng các tài liệu, thiết bị, thư viện và hệ thống internet phục vụ học tập và nghiên cứu.  
+
+Q67: Các quyền lợi của sinh viên trong chương trình đào tạo chất lượng cao là gì?  
+A67: Được hưởng các quyền lợi như giảng dạy trực tiếp bởi các nhà khoa học uy tín, ưu tiên tài liệu, chỗ ở, và xét cấp học bổng.  
+
+Q68: Sinh viên có thể xin nghỉ học vì lý do nào liên quan đến sức khỏe?  
+A68: Khi bị ốm, thai sản hoặc tai nạn dài hạn có chứng nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền.  
+
+Q69: Sinh viên có thể xin thôi học trong trường hợp nào?  
+A69: Vì lý do cá nhân, sau khi hoàn trả kinh phí đào tạo và phù hợp quy định của nhà trường.  
+
+Q70: Sinh viên có thể xin nghỉ học tạm thời vì lý do nào?  
+A70: Khi bị điều động, tham dự các kỳ thi quốc tế, bị ốm hoặc tai nạn dài hạn, hoặc vì lý do cá nhân phù hợp quy định.  
+
+Q71: Sinh viên có thể xin đi học ở nước ngoài dựa trên quyền lợi nào?  
+A71: Được ưu tiên xét chọn đi học hoặc theo các chương trình hợp tác quốc tế của Đại học Quốc gia Hà Nội hoặc của đơn vị đào tạo.  
+
+Q72: Quyền lợi của sinh viên trong chương trình đào tạo chuẩn là gì?  
+A72: Được hưởng đầy đủ chế độ, chính sách hiện hành của Đảng, Nhà nước và các quy chế của Đại học Quốc gia Hà Nội cùng của đơn vị đào tạo.  
+
+Q73: Sinh viên có thể xin thôi học vì lý do cá nhân không?  
+A73: Có, sau khi hoàn trả toàn bộ kinh phí đào tạo từ ngân sách nhà nước.  
+
+Q74: Sinh viên thuộc chương trình đào tạo tài năng có những quyền lợi gì?  
+A74: Được hướng dẫn nghiên cứu khoa học trực tiếp bởi các nhà khoa học đầu ngành, ưu tiên tài liệu, thiết bị, chỗ ở, và xét cấp học bổng.  
+
+Q75: Sinh viên có thể xin nghỉ học vì lý do nào?  
+A75: Khi bị điều động, tham dự các kỳ thi quốc tế, bị ốm hoặc tai nạn dài hạn, hoặc vì lý do cá nhân tối thiểu 1 học kỳ phù hợp quy định.  
+
+Q76: Sinh viên có thể xin đi học ở nước ngoài dựa trên quyền lợi nào?  
+A76: Được ưu tiên xét chọn đi học hoặc tham gia các chương trình hợp tác quốc tế của Đại học Quốc gia Hà Nội hoặc của đơn vị đào tạo.  
+
+Q77: Sinh viên có thể sử dụng các phương tiện, trang thiết bị kỹ thuật như thế nào?  
+A77: Được ưu tiên sử dụng các phương tiện, trang thiết bị kỹ thuật, thư viện và hệ thống internet phục vụ học tập và nghiên cứu.  
+
+Q78: Các quyền lợi của sinh viên trong chương trình đào tạo chất lượng cao là gì?  
+A78: Được hưởng các quyền lợi như giảng dạy trực tiếp bởi các nhà khoa học uy tín, ưu tiên tài liệu, chỗ ở, và xét cấp học bổng.  
+
+Q79: Sinh viên có thể xin nghỉ học vì lý do cá nhân thuộc các trường hợp nào?  
+A79: Phải học tối thiểu 1 học kỳ, không thuộc các trường hợp bị buộc thôi học hoặc kỷ luật, và lý do cá nhân phù hợp quy định.  
+
+Q80: Sinh viên có thể xin nghỉ học tạm thời vì các lý do nào khác?  
+A80: Khi bị ốm, thai sản, tai nạn dài hạn, hoặc lý do cá nhân phù hợp quy định.  
+
+Q81: Sinh viên có thể xin thôi học khi nào?  
+A81: Khi có lý do cá nhân và đã hoàn trả kinh phí đào tạo từ ngân sách nhà nước.  
+
+Q82: Quyền lợi của sinh viên thuộc chương trình đào tạo chuẩn là gì?  
+A82: Được hưởng đầy đủ chế độ, chính sách hiện hành của Đảng, Nhà nước và các quy chế của Đại học Quốc gia Hà Nội cùng của đơn vị đào tạo.  
+
+Q83: Sinh viên có thể xin nghỉ học vì lý do cá nhân không?  
+A83: Có, với điều kiện học tối thiểu 1 học kỳ và không thuộc các trường hợp bị buộc thôi học hoặc kỷ luật.  
+
+Q84: Sinh viên thuộc chương trình đào tạo tài năng được ưu tiên gì?  
+A84: Được hướng dẫn nghiên cứu khoa học trực tiếp bởi các nhà khoa học đầu ngành, ưu tiên tài liệu, thiết bị, chỗ ở, và xét cấp học bổng.  
+
+Q85: Sinh viên có thể xin đi học ở nước ngoài dựa trên quyền lợi nào?  
+A85: Được ưu tiên xét chọn đi học hoặc tham gia các chương trình hợp tác quốc tế của Đại học Quốc gia Hà Nội hoặc của đơn vị đào tạo.  
+
+Q86: Sinh viên có thể sử dụng thư viện và internet như thế nào?  
+A86: Được ưu tiên sử dụng các tài liệu, thiết bị, thư viện và hệ thống internet phục vụ học tập và nghiên cứu.  
+
+Q87: Các quyền lợi của sinh viên trong chương trình đào tạo chất lượng cao là gì?  
+A87: Được hưởng các quyền lợi như giảng dạy trực tiếp bởi các nhà khoa học uy tín, ưu tiên tài liệu, chỗ ở, và xét cấp học bổng.  
+
+Q88: Sinh viên có thể xin nghỉ học vì lý do nào liên quan đến sức khỏe?  
+A88: Khi bị ốm, thai sản hoặc tai nạn dài hạn có chứng nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền.  
+
+Q89: Sinh viên có thể xin thôi học trong trường hợp nào?  
+A89: Vì lý do cá nhân, sau khi hoàn trả kinh phí đào tạo và phù hợp quy định của nhà trường.  
+
+Q90: Sinh viên có thể xin nghỉ học tạm thời vì lý do nào?  
+A90: Khi bị điều động, tham dự các kỳ thi quốc tế, bị ốm hoặc tai nạn dài hạn, hoặc vì lý do cá nhân phù hợp quy định.  
+
+Q91: Sinh viên có thể xin đi học ở nước ngoài dựa trên quyền lợi nào?  
+A91: Được ưu tiên xét chọn đi học hoặc theo các chương trình hợp tác quốc tế của Đại học Quốc gia Hà Nội hoặc của đơn vị đào tạo.  
+
+Q92: Quyền lợi của sinh viên trong chương trình đào tạo chuẩn là gì?  
+A92: Được hưởng đầy đủ chế độ, chính sách hiện hành của Đảng, Nhà nước và các quy chế của Đại học Quốc gia Hà Nội cùng của đơn vị đào tạo.  
+
+Q93: Sinh viên có thể xin thôi học vì lý do cá nhân không?  
+A93: Có, sau khi hoàn trả toàn bộ kinh phí đào tạo từ ngân sách nhà nước.  
+
+Q94: Sinh viên thuộc chương trình đào tạo tài năng có những quyền lợi gì?  
+A94: Được hướng dẫn nghiên cứu khoa học trực tiếp bởi các nhà khoa học đầu ngành, ưu tiên tài liệu, thiết bị, chỗ ở, và xét cấp học bổng.  
+
+Q95: Sinh viên có thể xin nghỉ học vì lý do nào?  
+A95: Khi bị điều động, tham dự các kỳ thi quốc tế, bị ốm hoặc tai nạn dài hạn, hoặc vì lý do cá nhân tối thiểu 1 học kỳ phù hợp quy định.  
+
+Q96: Sinh viên có thể xin đi học ở nước ngoài dựa trên quyền lợi nào?  
+A96: Được ưu tiên xét chọn đi học hoặc tham gia các chương trình hợp tác quốc tế của Đại học Quốc gia Hà Nội hoặc của đơn vị đào tạo.  
+
+Q97: Sinh viên có thể sử dụng các phương tiện, trang thiết bị kỹ thuật như thế nào?  
+A97: Được ưu tiên sử dụng các phương tiện, trang thiết bị kỹ thuật, thư viện và hệ thống internet phục vụ học tập và nghiên cứu.  
+
+Q98: Các quyền lợi của sinh viên trong chương trình đào tạo chất lượng cao là gì?  
+A98: Được hưởng các quyền lợi như giảng dạy trực tiếp bởi các nhà khoa học uy tín, ưu tiên tài liệu, chỗ ở, và xét cấp học bổng.  
+
+Q99: Sinh viên có thể xin nghỉ học vì lý do nào liên quan đến sức khỏe?  
+A99: Khi bị ốm, thai sản hoặc tai nạn dài hạn có chứng nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền.  
+
+Q100: Sinh viên có thể xin thôi học trong trường hợp nào?  
+A100: Vì lý do cá nhân, sau khi hoàn trả kinh phí đào tạo từ ngân sách nhà nước và phù hợp quy định của nhà trường.

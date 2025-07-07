@@ -2,6 +2,7 @@ import requests
 import json
 import os
 from dotenv import load_dotenv
+import time
 
 load_dotenv()
 
@@ -16,8 +17,8 @@ Bạn là trợ lý tạo dữ liệu QA. Nhiệm vụ: Tạo 100 cặp Q&A từ
    "A1: [Trả lời]"
    "Q2: ..."
    "A2: ..."
-4. Chỉ sử dụng thông tin từ input
-5. Tạo tối thiểu 100 cặp Q&A
+4. Chỉ sử dụng thông tin từ dữ liệu đầu vào
+5. Tạo đủ 100 cặp Q&A
 6. Các cặp phải độc lập với nhau
 """
 
@@ -45,10 +46,19 @@ payload = {
 }
 
 try:
+    start_time = time.time()
+
     response = requests.post(url, headers=headers, data=json.dumps(payload))
     response.raise_for_status()
+
+    end_time = time.time()
+    total_time = end_time - start_time
+
+    response_data = response.json()
+    response_data['total_time'] = total_time
+
     with open("data.json", "w", encoding="utf-8") as f:
-        json.dump(response.json(), f, indent=4, ensure_ascii=False)
-    print("✅ Response saved to data.json")
+        json.dump(response_data, f, indent=4, ensure_ascii=False)
+    print(f"✅ Response saved to data.json (total_time: {total_time:.2f} seconds)")
 except requests.exceptions.RequestException as e:
     print(f"❌ Request failed: {e}")
